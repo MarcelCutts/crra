@@ -16,10 +16,11 @@ I am still very knew to the language and this is where I want to learn and explo
 
 ### Getting started
 
+1. Ensure you have OCaml and OPAM installed. Guide available [here].(http://www.ocaml.org/docs/install.html).
 1. Clone the repo
-2. `yarn` or `npm install`
-3. `yarn start` or `npm start`
-4. Open browser and navigate to: http://localhost:8080/
+1. `yarn` or `npm install`
+1. `yarn start` or `npm start`
+1. Open browser and navigate to: http://localhost:8080/
 
 ### Intro
 
